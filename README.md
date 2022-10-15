@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunbylapudi&label=Profile%20views&color=0e75b6&style=flat" alt="tarunbylapudi" /> </p>
 
-<p align="left"> <a href="https://twitter.com/tarunbylapudi" target="blank"><img src="https://img.shields.io/twitter/follow/tarunbylapudi?logo=twitter&style=for-the-badge" alt="tarunbylapudi" /></a> </p>
+
 
 - 🌱 I’m currently learning **React**
 
