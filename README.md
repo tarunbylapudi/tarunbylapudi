@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tarun Bylapudi</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunbylapudi&label=Profile%20views&color=0e75b6&style=flat" alt="tarunbylapudi" /> </p>
+<img align="right" width="400" src="https://miro.medium.com/max/1100/0*7Q3yvSIv_t0ioJ-Z.gif" alt="coding"  />
+
+<p align="left"> <img  src="https://komarev.com/ghpvc/?username=tarunbylapudi&label=Profile%20views&color=0e75b6&style=flat" alt="tarunbylapudi" /> </p>
 
 
 
